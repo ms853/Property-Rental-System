@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f26ff523-73c9-42e3-aa82-039135710622" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60533/PropertyService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PropertyService.xsd" MetadataType="Schema" ID="fe4806c8-9dc9-4645-8783-285450701eb5" SourceId="1" SourceUrl="http://localhost:60533/PropertyService.svc?xsd=xsd0" />
+    <MetadataFile FileName="PropertyService.disco" MetadataType="Disco" ID="a969ac54-b5e2-4d81-8021-9900f73cab10" SourceId="1" SourceUrl="http://localhost:60533/PropertyService.svc?disco" />
+    <MetadataFile FileName="PropertyService1.xsd" MetadataType="Schema" ID="36fb3dca-8a65-44b2-ba63-59e82145d970" SourceId="1" SourceUrl="http://localhost:60533/PropertyService.svc?xsd=xsd1" />
+    <MetadataFile FileName="PropertyService2.xsd" MetadataType="Schema" ID="ed7414d1-97d4-4d17-9796-ee73f3f0de42" SourceId="1" SourceUrl="http://localhost:60533/PropertyService.svc?xsd=xsd2" />
+    <MetadataFile FileName="PropertyService.wsdl" MetadataType="Wsdl" ID="bd93d1dc-dbe9-4332-9506-bcaaa61e0f5d" SourceId="1" SourceUrl="http://localhost:60533/PropertyService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

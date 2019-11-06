@@ -1,0 +1,7 @@
+C:\Users\User\Documents\University of Leicester (Work)\Advanced-Computer-Science-MSc\Advanced-WebTech\Assignment1\PropertyService\PropertyClient\bin\Debug\PropertyClient.exe.config
+C:\Users\User\Documents\University of Leicester (Work)\Advanced-Computer-Science-MSc\Advanced-WebTech\Assignment1\PropertyService\PropertyClient\bin\Debug\PropertyClient.exe
+C:\Users\User\Documents\University of Leicester (Work)\Advanced-Computer-Science-MSc\Advanced-WebTech\Assignment1\PropertyService\PropertyClient\bin\Debug\PropertyClient.pdb
+C:\Users\User\Documents\University of Leicester (Work)\Advanced-Computer-Science-MSc\Advanced-WebTech\Assignment1\PropertyService\PropertyClient\obj\Debug\PropertyClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\University of Leicester (Work)\Advanced-Computer-Science-MSc\Advanced-WebTech\Assignment1\PropertyService\PropertyClient\obj\Debug\PropertyClient.exe
+C:\Users\User\Documents\University of Leicester (Work)\Advanced-Computer-Science-MSc\Advanced-WebTech\Assignment1\PropertyService\PropertyClient\obj\Debug\PropertyClient.pdb
+C:\Users\User\Documents\University of Leicester (Work)\Advanced-Computer-Science-MSc\Advanced-WebTech\Assignment1\PropertyService\PropertyClient\obj\Debug\PropertyClient.csprojResolveAssemblyReference.cache

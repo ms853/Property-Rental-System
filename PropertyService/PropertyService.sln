@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyService", "PropertyService\PropertyService.csproj", "{F1C70940-FD12-4CDD-BE29-F478F624387C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyClient", "PropertyClient\PropertyClient.csproj", "{69E3C512-2681-47B6-A49B-B145BA326A80}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F1C70940-FD12-4CDD-BE29-F478F624387C} = {F1C70940-FD12-4CDD-BE29-F478F624387C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C70940-FD12-4CDD-BE29-F478F624387C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C70940-FD12-4CDD-BE29-F478F624387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C70940-FD12-4CDD-BE29-F478F624387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C70940-FD12-4CDD-BE29-F478F624387C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E3C512-2681-47B6-A49B-B145BA326A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E3C512-2681-47B6-A49B-B145BA326A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E3C512-2681-47B6-A49B-B145BA326A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E3C512-2681-47B6-A49B-B145BA326A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22AEF56B-0406-45FF-AB67-9867D4002B95}
+	EndGlobalSection
+EndGlobal

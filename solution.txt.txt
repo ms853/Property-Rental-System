@@ -1,0 +1,14 @@
+In this project, I have attempted and completed all of the four questions.
+For question one, I made a console application called 'PropertySearch', which consists of the following classes: Flat, StudentFlat, House and Property.
+I made an abstract class called 'Property' where all of the classes inherit from. 
+I did this in order to capture the criteria described in the task.
+
+For task 2, I created my database, the following tables called lettings and property and some test data for testing purposes.
+NOTE - Please consult the property.sql file to see how I have done this.
+
+For task 3 and 4, I made a separate solution from the console application in task 1. 
+The service I created is called 'PropertyService' and the corresponding client app is called 'PropertyClient'.
+For task four I used a switch case to display the text choice. And in the textual menu, I have assigned letters 'a','b','c' as choices for the user to select from.
+Each choice correspond to the following operations as described in task 3 and 4 of the assignment. 
+
+ 
