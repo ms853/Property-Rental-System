@@ -9,7 +9,8 @@ I started by implementing the server side of the application, which is a WCF ser
 2. Enter a new property into the database  
 3. Get a list of available student lettings
 
-The database solution my application uses is MySQL, and that is where I created two tables called Property and Lettings, which will hold the relevant information about the application. 
+The database solution my application uses is MySQL, and that is where I created two tables called Property and Lettings, which will hold the relevant information about the application. 9For details please look at: property.sql)
+
 Lastly, I implemented the client side of the application to invoke the WCF services which I implemented on the server. 
 
 This solution of mine received a mark of Distinction. 
